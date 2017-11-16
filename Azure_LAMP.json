@@ -1,0 +1,4 @@
+{
+  "fileUris": ["https://magellasa.blob.core.windows.net/tst/Azure_Linux_LAMP.sh"],
+  "commandToExecute": "./Azure_Linux_LAMP.sh"
+}
